@@ -6,7 +6,6 @@ body {
 h1 {
   font-size: 70px;
   font-weight: bold;
-  color: White;
 }
 
 h2 {
@@ -17,4 +16,24 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.banner {
+  background-image: url("./resources/images/the-flatiron-building.png")
+  color: White;
+}
+
+#copyright {
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
+}
+
+#footernav {
+  color: inherit;
+  background-color: inherit;
 }
