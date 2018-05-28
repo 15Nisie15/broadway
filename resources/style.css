@@ -23,7 +23,12 @@ p {
 }
 
 .banner {
-  background-image: url("./resources/images/the-flatiron-building.png")
+  background-image: url("./resources/images/the-flatiron-building.png");
+  color: White;
+}
+
+#nav {
+  font-size: 18px;
   color: White;
 }
 
@@ -31,9 +36,11 @@ p {
   font-size: 11px;
   color: White;
   background-color: dimgray;
+  text-align: left;
 }
 
 #footernav {
-  color: inherit;
+  font-size: 14px;
+  color: White;
   background-color: inherit;
 }
