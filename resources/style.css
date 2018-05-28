@@ -22,14 +22,17 @@ p {
   font-size: 14px;
 }
 
+a {
+  color: White;
+}
+
 .banner {
-  background-image: url("./resources/images/the-flatiron-building.png");
+  background-image: url("./images/the-flatiron-building.png");
   color: White;
 }
 
 #nav {
   font-size: 18px;
-  color: White;
 }
 
 #copyright {
@@ -41,6 +44,5 @@ p {
 
 #footernav {
   font-size: 14px;
-  color: White;
   background-color: inherit;
 }
